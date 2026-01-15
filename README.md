@@ -14,6 +14,9 @@ A high-precision AI Virtual Mouse using Python, OpenCV, and MediaPipe. Features 
 # 🖱️ AI Virtual Mouse: Modal Interaction Pro
 
 https://github.com/user-attachments/assets/45b813c7-e02c-4ea5-92dc-2792acfe9ace
+### 🖥️ Real-time Execution
+The system provides a live HUD (Heads-Up Display) to inform the user of the active mode and tracking status.
+https://github.com/user-attachments/assets/e6c3d8e1-763a-4461-b40a-47353296846e
 
 ## 🔬 The 2026 Innovation: Modal Interaction Logic
 Unlike legacy virtual mice that rely on simple coordinate mapping, this system introduces **Context-Aware States**. It intelligently switches behavior based on hand geometry.
